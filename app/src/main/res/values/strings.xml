@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minim2SergiGarciaQP2021</string>
+    <string name="profile">Profile</string>
+    <string name="badges">Badges</string>
+    <string name="id">ID</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="textview">TextView</string>
+</resources>
